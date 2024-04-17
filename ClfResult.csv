@@ -1,0 +1,5 @@
+﻿,knn,dt,nb,svm,logreg,rf,mlp,best score
+original,0.57,0.39,0.57,0.46,0.43,0.5,0.43,0.57
+standardscale,0.5,0.39,0.57,0.54,0.61,0.5,0.43,0.61
+minmaxscale,0.46,0.39,0.57,0.5,0.5,0.43,0.5,0.57
+best pre,org,all,all,standard,standard,org and standard,min max,
